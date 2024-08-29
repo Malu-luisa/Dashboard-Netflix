@@ -23,4 +23,4 @@ O projeto utiliza o Tableau para criar um dashboard interativo que permite aos u
    git clone https://github.com/Malu-luisa/Dashboard-Netflix.git 
    ```
 ## Dashboard Netflix 
- ![alt text](dashboardnetflix.jpg)
+ ![alt text](images/dashboardnetflix.jpg)
