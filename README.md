@@ -24,4 +24,4 @@ O projeto utiliza o Tableau para criar um dashboard interativo que permite aos u
    ```
 ## Dashboard Netflix 
 
-   ![alt text](images/dashboardnetflix.jpg)
+   ![alt text](./Dashboardpowerbi.pdf)
